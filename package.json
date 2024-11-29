@@ -1,7 +1,7 @@
 {
-  "name": "BOT-X",
+  "name": "bhayo-md",
   "version": "2.0.0",
-  "description": "A BOT",
+  "description": "A BOT made for class 7",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
